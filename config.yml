@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "trialtanikac.github.io/" 
+title: Tanika Chakraborty
 paginate: 20
 theme: PaperMod
 
@@ -7,20 +7,20 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: tanikac
 
 taxonomies:
     tag: tags
 
 menu:
     main:
-        - name: Papers
+        - name: Research
           url: /papers/
           weight: 1
         - name: Courses
           url: /courses/
           weight: 2
-        - name: Design
+        - name: Sponsored Projects
           url: /design/
           weight: 3
         - name: Tags
@@ -31,9 +31,9 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    description: "I am an Associate Professor of Economics at Indian Institute of Management, Calcutta."
+    author: Tanika Chakraborty
+    googleAnalyticsID: ""
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -55,18 +55,18 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
+          title: Tanika Chakraboty
+          subtitle: "I am an Associate Professor of Economics at Indian Institute of Management, Calcutta."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
+          imageTitle: Tanika Chakraborty
           buttons:
-            - name: Papers
+            - name: Research
               url: /papers/
             - name: Courses
               url: /courses/
-            - name: Design
+            - name: Sponsored Project
               url: /design/
             - name: Newsletter
               url: https://pmichaillat.substack.com
@@ -80,11 +80,9 @@ params:
         - name: Office Hours
           url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=DoOkjXsAAAAJ&hl=en&oi=ao
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://github.com/tanikac?tab=repositories
 
     assets:
         disableHLJS: true
@@ -93,7 +91,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Tanika Chakraborty"
       icon: /favicon.ico
       iconHeight: 18
 
